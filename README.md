@@ -39,10 +39,10 @@ Com os softwares instalados, siga as instruções abaixo:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/pimentajr/project-movie-cards-library-stateful
+git clone https://github.com/pimentajr/trybe-movie-cards-library-stateful
 
 # Entrar no diretório
-cd project-movie-cards-library-stateful
+cd trybe-movie-cards-library-stateful
 
 # Baixar as dependências
 npm i
